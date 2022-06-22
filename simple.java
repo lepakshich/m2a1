@@ -6,4 +6,20 @@ class simple {
 		System.out.println("Hello java 3, f1");
 		System.out.println("Hello java 3, f2");
 	}
+
+	public static void f1() 
+	{
+	}
+
+	public static void f2() 
+	{
+	}
+
+	public static void f3() 
+	{
+	}
+
+	public static void f4() 
+	{
+	}
 }
