@@ -14,16 +14,16 @@ class simple {
 
 	public static void f2() 
 	{
-		System.out.println("Hello java f1");
+		System.out.println("Hello java f2");
 	}
 
 	public static void f3() 
 	{
 		System.out.println("Hello java f1");
+		System.out.println("Hello java f2");
 	}
 
 	public static void f4() 
-		System.out.println("Hello java f1");
 	{
 	}
 }
