@@ -5,6 +5,7 @@ class simple {
 		System.out.println("Hello java 2");
 		System.out.println("Hello java 3, f1");
 		System.out.println("Hello java 3, f2");
+		System.out.println("Hello java 3, f1, test conflict");
 	}
 
 	public static void f1() 
