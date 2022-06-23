@@ -4,7 +4,7 @@ class simple {
 		System.out.println("Hello java 1");
 		System.out.println("Hello java 2");
 		System.out.println("Hello java 3, f1");
-		System.out.println("Hello java 3, f2");
+		System.out.println("Hello java 4, f2, conflcit");
 		System.out.println("Hello java 3, f1, test conflict");
 	}
 
