@@ -10,7 +10,7 @@ class simple {
 
 	public static void f1() 
 	{
-		System.out.println("Hello java f1");
+		System.out.println("Hello java f1, testing conflict-f1");
 	}
 
 	public static void f2() 
